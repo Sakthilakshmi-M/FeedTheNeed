@@ -123,7 +123,7 @@
       $mail->Host       = 'smtp.gmail.com';                     
       $mail->SMTPAuth   = true;                                  
       $mail->Username   = 'receiverftn@gmail.com';                     
-      $mail->Password   = 'egqzhaalynxcozqb';                           
+      $mail->Password   = '';                           
       $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;           
       $mail->Port       = 465;       
   
